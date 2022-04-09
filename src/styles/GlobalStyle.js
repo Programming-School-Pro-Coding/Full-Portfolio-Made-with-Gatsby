@@ -6,6 +6,7 @@ import blogstyles from './blogcss.style';
 const GlobalStyle = createGlobalStyle`
   * {
     box-sizing: border-box;
+    transition: all 0.5s;
   }
 
   body, html {
